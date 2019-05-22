@@ -6,7 +6,11 @@ Steps to run the application:
 In command Prompt
 <li>
 npm install -g --save-dev @types/angular
+</li>
+<li>
 Npm install -g static-server
+</li>
+<li>
 static-server -p 8089
 </li>
 
