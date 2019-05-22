@@ -15,6 +15,7 @@ Npm install -g static-server
 <li>
 static-server -p 8089
 </li>
+<br>
 <ul>
 Next we go to the link given by the localhost i.e. http://localhost:8089 to see the applicaton as an output in our screen.
 </ul>
