@@ -3,7 +3,9 @@
 Anugular js is an javascript frame work. It is an open source.
 
 Steps to run the application:
+<ul>
 In command Prompt
+  </ul>
 <li>
 npm install -g --save-dev @types/angular
 </li>
